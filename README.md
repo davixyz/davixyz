@@ -1,13 +1,12 @@
 ### Hi, my name is Carlos Castro
 ----
 
-I make things happen in Technology.
+I turn ideas into impactful technology.
 
-I like to work on the web, mentor others, advocate for accessibility, teach new topics, review performance on apps, make good tools for developers, Infrastructure, and in general untangle code bases to their minimal, most easy-to-understand implementation.
+I specialize in web development, mentoring, and advocating for accessibility while delivering scalable, efficient solutions. I thrive on teaching new concepts, optimizing app performance, crafting tools for developers, and simplifying complex codebases into clear, maintainable implementations.
 
-If I would say something good about me in my everyday work is: I care. I will go beyond and give the extra mile to succeed in what I'm doing.
+What sets me apart in my day-to-day work? I care deeply. I go the extra mile to ensure success and create value in every project.
 
-- 🔭 I'm currently working at Netflix
-- 🌱 I'm currently learning more Typescript
-- 💬 Ask me about Frontend, Accessibility, Design Systems and UI Component Libraries
+- 🔭 Currently building the future at Netflix
+- 💬 Let’s talk about Frontend Development, Accessibility, Design Systems, or UI Component Libraries
 - 📫 How to reach me: hello@carloscastro.dev
